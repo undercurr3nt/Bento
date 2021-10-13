@@ -12,8 +12,8 @@ const CONFIG = {
 
   // General
   name: 'Luke',
-  imageBackground: false,
-  openInNewTab: true,
+  imageBackground: true,
+  openInNewTab: false,
   twelveHourFormat: true,
 
   // Greetings
