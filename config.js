@@ -75,4 +75,5 @@ const CONFIG = {
       link: 'https://youtube.com/',
     },
   ],
+},
 };
